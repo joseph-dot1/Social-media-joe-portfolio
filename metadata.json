@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Social Media Portfolio",
+  "description": "A dynamic, single-page portfolio for a social media manager, featuring AI-powered content brainstorming capabilities using the Gemini API.",
+  "requestFramePermissions": []
+}
